@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Indonesia </h3>
 <p align="left">Saya seorang mahasiswa S1 Sistem Informasi di Universitas Gunadarma. Saya mempunyai kemampuan dalam Programming dan tertarik dengan Full-Stack Developer Web. Saya juga seorang Freelancer Web Develeoper dan telah memiliki pengalaman bekerja dengan banyak proyek.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viantonugroho11&label=Profile%20views&color=0e75b6&style=flat" alt="viantonugroho11" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=viantonugroho11&label=Profile%20views&color=0e75b6&style=flat" alt="viantonugroho11" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viantonugroho11" alt="viantonugroho11" /></a> </p>
 
