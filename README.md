@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viantonugroho11" alt="viantonugroho11" /></a> </p>
 
-- 🔭 I’m currently working on **Incubator Business Center Universitas Gunadarma**
+- 🔭 I’m currently working on **Amartha Microfinance**
 
 - 🌱 I’m currently learning **ReactJs, Golang, ExpressJS, and learning in Dicoding**
 
-- 👯 I’m looking to collaborate on **App SIAK**
+- 👯 I’m looking to collaborate on **App finance**
 
 - 🤝 I’m looking for help with **https://stackoverflow.com/**
 
