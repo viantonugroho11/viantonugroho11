@@ -88,24 +88,12 @@ motto:      "Simplify complex systems into maintainable solutions."
 
 <div align="center">
 
-<a href="https://github.com/viantonugroho11/hermes-tech">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=viantonugroho11&repo=hermes-tech&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/viantonugroho11/Anvio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=viantonugroho11&repo=Anvio&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/viantonugroho11/Mavio-MCP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=viantonugroho11&repo=Mavio-MCP&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/viantonugroho11/go-docgen">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=viantonugroho11&repo=go-docgen&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/viantonugroho11/anisync">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=viantonugroho11&repo=anisync&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/viantonugroho11/go-notifications-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=viantonugroho11&repo=go-notifications-engine&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+<a href="https://github.com/viantonugroho11/hermes-tech"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=viantonugroho11&repo=hermes-tech&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/viantonugroho11/Anvio"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=viantonugroho11&repo=Anvio&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/viantonugroho11/Mavio-MCP"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=viantonugroho11&repo=Mavio-MCP&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/viantonugroho11/go-docgen"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=viantonugroho11&repo=go-docgen&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/viantonugroho11/anisync"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=viantonugroho11&repo=anisync&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/viantonugroho11/go-notifications-engine"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=viantonugroho11&repo=go-notifications-engine&theme=tokyonight&hide_border=true" /></a>
 
 </div>
 
@@ -150,19 +138,25 @@ motto:      "Simplify complex systems into maintainable solutions."
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viantonugroho11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=viantonugroho11&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-frame=true" />
+  </a>
 </div>
 
 ---
 
-## 🧩 Engineering Expertise
+<h2 align="center">🧩 Engineering Expertise</h2>
+
+<div align="center">
 
 | 🖥️ Backend | 🏛️ Architecture | ⚙️ DevOps | ☁️ Cloud |
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
 | REST · gRPC APIs | Microservices | Docker / K8s | Google Cloud |
 | Golang · Laravel | Distributed Systems | CI/CD Pipelines | Firebase |
 | Python · Node.js | Event-Driven | Observability | Linux Infra |
 | Clean Architecture | System Design | Monitoring & Alerts | Serverless |
+
+</div>
 
 ---
 
